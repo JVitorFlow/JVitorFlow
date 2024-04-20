@@ -1,16 +1,31 @@
-### Hi there 👋
+# Olá, sou João Vitor 👋
 
-<!--
-**JVitorFlow/JVitorFlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou desenvolvedor especializado em RPA (Automação Robótica de Processos) e desenvolvimento de APIs. Apaixonado por criar soluções eficientes que simplificam e automatizam processos complexos.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando em projetos de automação para diversos setores.
+- 🌱 Estou sempre aprendendo mais sobre arquiteturas de software, padrões de design e novas tecnologias de automação.
+- 🤝 Estou interessado em colaborar em projetos focados no desenvolvimento de APIs, automação e exploração de aplicações práticas de Inteligência Artificial.
+- 💬 Pergunte-me sobre tudo relacionado a RPA, APIs, integrações de sistemas e aplicações de IA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
+## Projetos em Destaque
+- **API de Leitura de Código de Barras Integrada com RPA**: Desenvolvimento de uma solução que utiliza APIs para leitura de códigos de barras, integrando com processos de RPA para automação de entrada de dados e logística.
+- **API em PHP para Envio de Mensagens no WhatsApp e Consulta em Banco Oracle**: Criação de uma API que permite o envio de mensagens via WhatsApp e realiza consultas em um banco de dados Oracle, facilitando a comunicação e o acesso a informações importantes de forma automatizada.
+
+
+## Contato
+- 📫 Como me alcançar: joaovitorcsg@hotmail.com
+- 📄 Conheça mais sobre minha carreira: https://www.linkedin.com/in/joaovitorcarolino/
+
