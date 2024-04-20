@@ -1,4 +1,6 @@
-# Olá, sou João Vitor 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+👋+sou+o+João+Vitor!;" />
+</h1>
 
 ## Sobre Mim
 Sou desenvolvedor especializado em RPA (Automação Robótica de Processos) e desenvolvimento de APIs. Apaixonado por criar soluções eficientes que simplificam e automatizam processos complexos.
@@ -29,3 +31,6 @@ Sou desenvolvedor especializado em RPA (Automação Robótica de Processos) e de
 - 📫 Como me alcançar: joaovitorcsg@hotmail.com
 - 📄 Conheça mais sobre minha carreira: https://www.linkedin.com/in/joaovitorcarolino/
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
